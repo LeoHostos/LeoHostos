@@ -24,8 +24,6 @@
 ### ℹ **More info & Contact**
 <p align="center">
 <a href="https://linktr.ee/leohostos"><img alt="My Linktree" src="https://img.shields.io/badge/Personal_Linktree-linktr.ee/leohostos-white?style=flat-square&logo=linktree"></a>
-<a href="https://www.instagram.com/leo.hostos/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leo.hostos-white?style=flat-square&logo=instagram"></a>
-<a href="https://www.linkedin.com/in/leonardo-hostos-olivera-a80aa0114/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonardo_Hostos_Olivera-white?style=flat-square&logo=linkedin"></a>
 <a href="mailto:lhostosolivera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lhostosolivera@gmail.com-white?style=flat-square&logo=gmail"></a>
 </p>
 
