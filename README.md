@@ -1,4 +1,4 @@
-![Fondo LHO_2](https://user-images.githubusercontent.com/101445865/158067948-b31d97ac-b490-48d9-a03b-e1ac012bbb93.jpg)
+![Uploading Fondo LHO_2.jpg…]()
 
 - 👋 Hi, I’m @LeoHostos
 - 👀 I’m interested in Evo-Evo Informatics and Wildlife Conservation
