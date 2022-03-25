@@ -1,10 +1,10 @@
 ![Fondo LHO_2](https://user-images.githubusercontent.com/101445865/158068085-e403fed5-4375-400c-bd3b-7a1914f94e32.jpg)
 
 ### 👨‍💻 **About Me**
-- 📚 Peruvian biologist interested in Evo-Evo Informatics and Wildlife Conservation.
+- 📚 Peruvian biologist interested in Eco-Evo Informatics and Wildlife Conservation.
 - 💼 Working as Data Science Technical Assistant at Wildlife Conservation Society Peru.
 - 🔎 Research assistant at Vertebrate Paleontology and Evolution Lab - UPCH.
-- ⭐️ Learning more about informatic tools to apply in Evolutionary Ecology and Conservation.
+- ⭐️ Learning more about informatic tools and quantitative methods to measure biodiversity in all its dimensions and scales.
 - ✍ Looking for postgraduate studies abroad.
 
 ### 🛠 **Skills**
