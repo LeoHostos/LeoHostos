@@ -1,9 +1,10 @@
 ![Fondo LHO_2](https://user-images.githubusercontent.com/101445865/158068085-e403fed5-4375-400c-bd3b-7a1914f94e32.jpg)
 
 ### 👨‍💻 **About Me**
-- 📚 Peruvian biologist interested in Evolutionary Ecology and Wildlife Conservation.
-- 💼 Working as Data Science Technical Assistant at Wildlife Conservation Society Peru.
-- 🔎 Research assistant at Vertebrate Paleontology and Evolution Lab - UPCH.
+- 🇵🇪 Peruvian biologist interested in Evolutionary Ecology and Wildlife Conservation.
+- 💼 Working as a Research Assistant at Universidad Peruana Cayetano Heredia, Peru.
+- 🔎 Member of the Vertebrate Paleontology and Evolution Lab - UPCH.
+- 📚 Studying a Master's Degree in Zoology with a mention in Systematics and Evolution at Universidad Nacional Mayor de San Marcos, Peru.
 - ⭐️ Learning more about diverse informatic tools and methods to study wildlife ecology and evolution.
 
 ### 🛠 **Skills**
