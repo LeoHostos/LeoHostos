@@ -16,9 +16,8 @@
 - Softwares:
   ![MorphoJ](https://user-images.githubusercontent.com/101445865/158071310-ab78a8d2-2127-4811-a6d3-f31de8cde2b8.png)
   ![Past](https://user-images.githubusercontent.com/101445865/158071852-2232ce05-4e81-4931-a31e-b2b49cc2888b.png)
-  ![ArcGIS](https://user-images.githubusercontent.com/101445865/158072117-548c28b8-6473-46a9-bfea-5496e37456aa.png)
-  ![ArcGIS](https://img.shields.io/badge/-ArcGIS-ffffff?style=flat&logo=arcgis)
   ![QGIS](https://img.shields.io/badge/-QGIS-ffffff?style=flat&logo=qgis)
+  ![ArcGIS](https://img.shields.io/badge/-ArcGIS-ffffff?style=flat&logo=arcgis)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-ffffff?style=flat&logo=adobephotoshop)
   ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-ffffff?style=flat&logo=adobeillustrator)
 
